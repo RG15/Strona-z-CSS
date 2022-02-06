@@ -1,1 +1,1 @@
-# zad1-5-CSS
+Strona z zadań 1-5 z CSS
